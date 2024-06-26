@@ -1,6 +1,12 @@
 ###
-<h2 align="left">Olá Meu nome é Diogo Silva, estudante de engenharia devOps!</h2>
 
+<div>
+  
+  <h1 align="center">
+    Oi Tudo bem? Eu sou o 
+    <a href="[https://www.linkedin.com/in/diogo-silva-36b161117/">Diogo Silva, estudante de engenharia devOps!😃️</a>
+  </h1>
+  
 ###
 
 <div align="center">
@@ -55,13 +61,22 @@
   <img src="https://cdn.simpleicons.org/windows/0078D6" height="30" alt="windows8 logo"  />
 </div>
 
+  <p align="center">
+   
 
 
-###
 
 
 
-###
 
 
-###
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+<div align="center">
+  <p>Feito com :heart: e JavaScript.</p>
+  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+</div>
+
+

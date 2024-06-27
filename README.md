@@ -1,12 +1,16 @@
-
-
-
 <div>
   
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
     <a href="[https://www.linkedin.com/in/diogo-silva-36b161117/">Diogo Silva, estudante de devOps!😃️</a>
   </h1>
+  
+<p align="center">
+  <img src="https://github.com/Diogo-Silva3/banner-profile/blob/main/banner%20grande.png?raw=true" alt="Banner">
+</p>
+ 
+
+
   
 ###
 

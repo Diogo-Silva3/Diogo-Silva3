@@ -4,7 +4,7 @@
   
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
-    <a href="[https://www.linkedin.com/in/diogo-silva-36b161117/">Diogo Silva, estudante  devOps!😃️</a>
+    <a href="[https://www.linkedin.com/in/diogo-silva-36b161117/">Diogo Silva, estudante de devOps!😃️</a>
   </h1>
   
 ###

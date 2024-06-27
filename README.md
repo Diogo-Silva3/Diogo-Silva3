@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
-    <a href="[https://www.linkedin.com/in/diogo-silva-36b161117/">Diogo Silva, estudante de devOps!😃️</a>
+    <a href="[https://www.linkedin.com/in/diogo-silva-36b161117/">Diogo Silva, estudante de DEVOPS ENGINEER !😃️</a>
   </h1>
   
 <p align="center">

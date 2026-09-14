@@ -5,10 +5,6 @@
     <a href="[https://www.linkedin.com/in/diogo-silva-36b161117/">Diogo Silva, estudante de DEVOPS ENGINEER !😃️</a>
   </h1>
   
-<p align="center">
-  <img src="https://lh3.googleusercontent.com/gg-dl/AAQ_wbFRz2WgCcK25lZvpp3QcZf_s_VqbyNfydaeO0dqHfTSMn2IYRmJ67gR3VFP2b5i7SnqE3ur9zex7udob3PXk9tToI7cjZnh705fnxFk0jdJ_SqibsyLHYjkO7GBq4Maoz-hw-8ruIG9EL6ICdC62Ihrn1_n3Ubq2Vnu4HfahRQoL5iWBQ=s1024-rj">
-</p>
- 
 <div align="center">
   <img src="https://i.imgur.com/67w3Gfl.png" alt="Banner Diogo Silva" width="100%" />
 </div>

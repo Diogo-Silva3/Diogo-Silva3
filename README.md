@@ -6,7 +6,7 @@
   </h1>
   
 <p align="center">
-  <img src="https://github.com/Diogo-Silva3/banner-profile/blob/main/banner%20grande.png?raw=true" alt="Banner">
+  <img src="">
 </p>
  
 
